@@ -41,14 +41,7 @@ Jika sensor ultrasonic mendeteksi objek pada jarak tertentu, Arduino akan:
 
 > Upload gambar di GitHub, lalu masukkan seperti contoh di bawah:
 
-![Car Front View](images/car_front.jpg)
-*Gambar 1 — Tampilan depan mobil*
-
-![Arduino Wiring](images/arduino_wiring.jpg)
-*Gambar 2 — Wiring Arduino, sensor, dan motor driver*
-
-![Ultrasonic Sensor](images/ultrasonic_mount.jpg)
-*Gambar 3 — Sensor ultrasonic di bagian depan mobil*
+![Car Front View](/images/picture1.jpg)
 
 > **Cara menambahkan screenshot:**  
 > 1. Buat folder `images` di repo kamu  
