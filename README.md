@@ -39,8 +39,6 @@ Jika sensor ultrasonic mendeteksi objek pada jarak tertentu, Arduino akan:
 
 ## 📸 Screenshot / Dokumentasi
 
-> Upload gambar di GitHub, lalu masukkan seperti contoh di bawah:
-
 ![Car Front View](/images/screenshot1.jpg)
 
 
